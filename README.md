@@ -52,6 +52,14 @@ The main objective of this project is to build a model that can estimate car pri
 
 # 📂 Project Structure
 
+## 📥 Dataset
+
+<p align="center">
+  <a href="./car_data.csv">
+    <img src="https://img.shields.io/badge/⬇️%20Download-Car%20Price%20Dataset-blue?style=for-the-badge" alt="Download Dataset">
+  </a>
+</p>
+
 # 🚗 Car Price Prediction using Machine Learning
 
 <p align="center">
