@@ -51,3 +51,13 @@ The main objective of this project is to build a model that can estimate car pri
 ---
 
 # 📂 Project Structure
+
+# 🚗 Car Price Prediction using Machine Learning
+
+<p align="center">
+
+<a href="https://car-price-prediction-ml-5efpdahihs7qwrcsgesvpy.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-brightgreen?style=for-the-badge" />
+</a>
+
+</p>
